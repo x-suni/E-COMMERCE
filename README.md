@@ -53,5 +53,6 @@ The Fashion Ecommerce Store is a user-friendly and minimalist platform designed 
   - Advanced analytics for store performance monitoring.
   
 This documentation serves as a foundational guide for future enhancements and scaling of the Fashion Ecommerce Store.
-
+**UPDATE**
+I will provide the landscape pages where the stores can be seen i direct htme to theri store where they send me their code.
 
